@@ -5,11 +5,11 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
-numpy>=1.9.2
-scipy>=0.15.1
-scikit_learn==0.22.2.post1
+numpy
+scipy
+scikit-learn==0.21.3
 matplotlib>=1.4.3
-pandas>=0.19
+pandas
 future==0.18.2
 geographiclib==1.50
 geopy==2.0.0
