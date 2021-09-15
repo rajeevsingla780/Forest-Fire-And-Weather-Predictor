@@ -1,4 +1,3 @@
-dnspython==2.0.0
 Flask
 Flask-WTF
 future==0.18.2
@@ -16,9 +15,9 @@ pandas
 pandas-datareader==0.9.0
 parso==0.7.1
 patsy==0.5.1
-pefile==2019.4.18
+pefile
 pickleshare==0.7.5
-requests==2.24.0
+requests
 requests-oauthlib==1.3.0
 scikit-learn
 scipy
