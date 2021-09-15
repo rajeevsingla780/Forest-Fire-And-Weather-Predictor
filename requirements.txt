@@ -1,5 +1,5 @@
-flask
-Flask
+python==3.9
+Flask==1.1.2
 Flask-WTF
 future==0.18.2
 geographiclib==1.50
