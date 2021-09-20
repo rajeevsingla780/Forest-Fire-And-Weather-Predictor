@@ -14,12 +14,10 @@ This webapp can be used to predict the probability of forest fire by entering th
 * When the user clicks the button on the web page, the Darksky API  sent the latitude and longitude
 of the place entered and collects the raw data of the forest.
 * The python script then fetches weather data from the Darksky API.
-* This data is used to calculate the Humidity, Temperature and .
-* The FWIs and the raw data from the API are fed into the Deep Regression model which 
-outputs  
+* This data is used to calculate the Humidity, Temperature and Oxygen.
+  
 ## Requirements
-* `keras`, `tensorflow`, `sklearn` for machine learning
+* `sklearn` for machine learning
 * `flask`, `flask-cors` for the API
 * `numpy` for linear algebra
-* `dill` for object saving
 * `pandas` for reading the training data in the form of `*.csv`
