@@ -21,3 +21,6 @@ of the place entered and collects the raw data of the forest.
 * `flask`, `flask-cors` for the API
 * `numpy` for linear algebra
 * `pandas` for reading the training data in the form of `*.csv`
+
+## Working Website
+https://foresty-rajeev-101803655.herokuapp.com/
